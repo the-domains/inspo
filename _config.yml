@@ -1,0 +1,28 @@
+name: inspo
+favicon: null
+layout_spectrum: 0.010210378095507622
+typography_spectrum: 0.6151182476896793
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9499937603250146
+  lightness: 0.18691303627565503
+  saturation: 0.5782548447605222
+  rhythmicContrast: 0.36082818871364
+purpose: []
